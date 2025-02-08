@@ -21,3 +21,4 @@ Remote (server, database which is not my computer)
 - git checkout -b {branch name}
 - git merge {branch name}
 - git branch -d {branch name}
+- git push
