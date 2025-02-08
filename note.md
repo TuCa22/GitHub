@@ -3,6 +3,8 @@
 Repository (Repo)
 Branch
 Conflict
+Local (my computer)
+Remote (server, database which is not my computer)
 
 # Commands
 
