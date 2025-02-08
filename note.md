@@ -22,3 +22,9 @@ Remote (server, database which is not my computer)
 - git merge {branch name}
 - git branch -d {branch name}
 - git push
+- git remote add origin{repo URL}
+- git push origin {branch name}
+- git clone{repo URL}
+- git fetch origin
+- git checkout -b {branch name} origin/{branchname}
+- git ignore
